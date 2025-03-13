@@ -30,12 +30,12 @@ h1{
 
 .cta-2, .cta-3{
   color: #FEFCFB;
-  font-size: 14px;
+  font-size: 16px;
   border: none;
   padding: 10px 15px;
   border-radius: 30px;
   cursor: pointer;
-  font-weight: 100;
+  font-weight: 200;
 }
 
 .cta-2{
@@ -73,6 +73,10 @@ h1{
   .cta-container{
     flex-direction: column;
     gap: 48px;
+  }
+
+  .cta-2, .cta-3{
+    font-size: 20px;
   }
 }
 
@@ -113,6 +117,16 @@ h1{
     font-weight: 200;
     max-width: 1000px;
     margin-bottom: 12px;
+  }
+
+  .cta-2, .cta-3{
+    color: #FEFCFB;
+    font-size: 18px;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: 200;
   }
   
 
