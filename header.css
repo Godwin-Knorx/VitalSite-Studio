@@ -39,7 +39,7 @@
   text-decoration: none;
   padding: 5px 10px;
   color: #001F54;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .nav-links:hover{
@@ -53,6 +53,7 @@
 }
 
 .nav-cta, .nav-cta1{
+  font-size: 16px;
   background-color: #001F54;
   color: #FEFCFB;
   border: none;
