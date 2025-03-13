@@ -60,6 +60,7 @@
   padding: 10px 15px;
   border-radius: 30px;
   cursor: pointer;
+  font-family: Poppins;
 }
 
 .nav-cta:hover{
