@@ -75,7 +75,7 @@
 }
 
 
-#hambuger-menu{
+.hambuger-menu{
   display: none;
 }
 
@@ -97,7 +97,7 @@
   display: none;
 }
 @media (max-width: 1330px){
-  #hambuger-menu{
+  .hambuger-menu{
     display: inline-block;
     cursor: pointer;
   }
