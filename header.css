@@ -79,7 +79,7 @@
   display: none;
 }
 
-#pop-up-sidenav{
+.pop-up-sidenav{
    display: none;
 }
 
@@ -106,7 +106,7 @@
     display: none;
   }
 
-  #pop-up-sidenav{
+  .pop-up-sidenav{
     position: fixed;
     display: flex;
     flex-direction: column;
